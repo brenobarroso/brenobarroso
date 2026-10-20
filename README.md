@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Waving Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=200&section=header&text=Breno%20Barroso&fontSize=50&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Back-End%20Software%20Engineer%20%7C%20C%23%20%26%20.NET&descAlignY=58&descSize=20" alt="Breno Barroso Header" />
+<img width="100%" src="./assets/header.svg" alt="Breno Barroso Header" />
 
 <!-- Animated Typing SVG -->
 <a href="https://brenobarroso.github.io">
@@ -150,4 +150,4 @@
 </div>
 
 <!-- Animated Waving Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:1a1b27&height=120&section=footer" alt="Footer" />
+<img width="100%" src="./assets/footer.svg" alt="Footer" />
